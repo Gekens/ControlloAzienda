@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ControlloMagazzino</string>
+
+    <string-array name="pro">
+        <item>Ciliegie</item>
+        <item>Piselli</item>
+        <item>Pesche</item>
+    </string-array>
+
+    <string-array name="cqua">
+        <item>Prime Giant</item>
+        <item>Big Glory</item>
+        <item>Green Star</item>
+        <item>Regina</item>
+    </string-array>
+
+    <string-array name="pqua">
+        <item>qua1</item>
+        <item>qua2</item>
+    </string-array>
+
+    <string-array name="equa">
+        <item>Generiche</item>
+    </string-array>
+</resources>
